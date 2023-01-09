@@ -10,8 +10,8 @@ function App() {
 
 <div className='container'>
 
-{/* <TextForm heading='Enter the text to analize'/> */}
-<About/>
+<TextForm heading='Enter the text to analize'/>
+{/* <About/> */}
 </div>
   </> 
   );
